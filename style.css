@@ -68,7 +68,7 @@ input:focus{
     align-items: center;
 }
 #weather-info div{
-    font-size: 12px;
+    font-size: 15px;
     color: white;
 }
 .hidden{
